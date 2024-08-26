@@ -1,1 +1,2 @@
 # flirting-detection-in-audio
+The Flirting Detection system is designed to accurately distinguish between flirting and non-flirting interactions using both text and audio data. This project leverages advanced machine learning techniques to analyze conversations and determine the nature of the interaction. The process involves multiple stages, from data preparation to model deployment, ensuring robust and precise predictions.
