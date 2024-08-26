@@ -1,0 +1,22 @@
+[
+    {
+        "Text": "you have a beautiful smile can you tell me more about yourself I love your eyes what a lovely dress you have on could you help me with this document",
+        "Prediction": "Flirting Detected"
+    },
+    {
+        "Text": "you have a beautiful smile can you tell me more about yourself I love your eyes what a lovely dress you have on could you help me with this document",
+        "Prediction": "Flirting Detected"
+    },
+    {
+        "Text": "when is the due date for the stars could you repeat the statement could you help me with this document",
+        "Prediction": "No Flirting Detected"
+    },
+    {
+        "Text": "when is the due date for the stars could you repeat the statement could you help me with this document",
+        "Prediction": "No Flirting Detected"
+    },
+    {
+        "Text": "you have a beautiful smile can you tell me more about yourself I love your eyes what a lovely dress you have on could you help me with this document",
+        "Prediction": "Flirting Detected"
+    }
+]
